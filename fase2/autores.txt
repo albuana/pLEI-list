@@ -1,0 +1,17 @@
+UC1:
+    Número do aluno: 53512 | 51077
+    Nome do aluno: Ana Laura Barreira Albuquerque |
+		   Maria Ines Goldschmidt Oliveira
+    Horas gastas: 3h00
+    
+UC2:
+    Número do aluno: 53512 | 51077
+    Nome do aluno: Ana Laura Barreira Albuquerque ||
+		   Maria Ines Goldschmidt Oliveira
+    Horas gastas: 3h00
+    
+UC4:
+    Número do aluno: 53512 | 51077
+    Nome do aluno: Ana Laura Barreira Albuquerque ||
+		   Maria Ines Goldschmidt Oliveira
+    Horas gastas: 3h00

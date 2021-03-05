@@ -1,0 +1,14 @@
+UC1:
+    Número do aluno: 51077
+    Nome do aluno: Maria Ines Goldschmidt Oliveira
+    Horas gastas: 15h30
+    
+UC2:
+    Número do aluno: 53512
+    Nome do aluno: Ana Laura Barreira Albuquerque
+    Horas gastas: 15h30
+    
+UC4:
+    Número do aluno:
+    Nome do aluno:
+    Horas gastas:
