@@ -1,41 +1,6 @@
 pLEI list - Meta4
 =================
 
-**Deadline:** 28 de Maio de 2019, 23:55, Hora de Lisboa
-
-**Equipa:** O trabalho deve ser feito em grupos de 3. Excepcionalmente serão aceites grupos de 2.
-
-**Dúvidas:** Dúvidas sobre o trabalho, bem como outras discussões como procura de elementos de grupo deverão ser feitas [neste endereço](https://git.alunos.di.fc.ul.pt/dco0001/dco_plei_list/issues).
-
-**Instruções:** No repositório local da meta 3 deverá executar os seguintes comandos para juntar o código fornecido à sua cópia local:
-
-```
-git pull enunciado master
-```
-
-
-**Para entregar:** Deverá preencher o ficheiro autores.txt. O Código deverá ficar na mesma pasta onde se encontra. Façam os commits que acharem necessários. Depois, basta criar uma nova tag git e colocá-la no servidor:
-
-```
-git tag meta4
-git push origin meta4
-```
-
-Não cumprir estas instruções levará a que o projecto nem seja corrigido, resultando numa nota de 0.
-
-Fraude
-------
-
-Como futuro profissional, espera-se de si uma atitude irrepreensível,
-em termos éticos e deontológicos. Tenha pois o maior cuidado em
-respeitar e fazer respeitar a lei da criminalidade informática.
-
-A nível académico, alunos detetados em situação de fraude ou plágio
-(plagiadores e plagiados) em alguma prova ficam reprovados à
-disciplina e serão alvo de processo disciplinar, o que levará a um
-registo dessa incidência no processo de aluno, podendo conduzir à
-suspensão letiva ou abandono da Universidade.
-
 Objectivo
 ---------
 
