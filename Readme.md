@@ -11,8 +11,4 @@ Sobre o projecto:
 
 **Descrição:** Uma aplicação que permita gerir um catálogo de filmes e streams, podendo gerar playlists com esse conteúdo.
 
-Autores:
-
-Inês Goldschmidt
-
-Ana Albuquerque
+**Autores:** Inês Goldschmidt; Ana Albuquerque
